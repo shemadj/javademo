@@ -20,7 +20,7 @@ $
 - - - -
 
 ### IDE UTILIZADO
-* Para abrir el proyecto puedes utilizar cualquier IDE como [NetBeans](http://netbeans.apache.org/), [Eclipse](http://www.eclipse.org/downloads/) o [IntelliJ IDEA](https://www.jetbrains.com/idea/download), al momento de creación del proyecto inicial se utilizó IntelliJ IDEA Community Edition, el cual puedes descargar dando click en el logotipo,
+* Para abrir el proyecto puedes utilizar cualquier IDE como [NetBeans](http://netbeans.apache.org/), [Eclipse](http://www.eclipse.org/downloads/) o [IntelliJ IDEA](https://www.jetbrains.com/idea/download), al momento de creación del proyecto inicial se utilizó NetBeans, el cual puedes descargar dando click en el logotipo,
 
-    [![](imagenes/intellij.png)](https://www.jetbrains.com/idea/download)
+    [![](imagenes/netbeans.jpg)](http://netbeans.apache.org/)
  
