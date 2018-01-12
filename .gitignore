@@ -4,4 +4,5 @@
 Thumbs.db
 vendor/
 **/private/
-
+/build/
+/dist/
